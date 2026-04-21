@@ -1,0 +1,5 @@
+build/
+flet_temp_project/
+*.apk
+__pycache__/
+venv/

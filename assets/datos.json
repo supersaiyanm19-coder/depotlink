@@ -1,0 +1,19 @@
+{
+  "usuarios": [
+    {
+      "usuario": "admin",
+      "password": "1234",
+      "nombre": "Emmanuel"
+    }
+  ],
+  "productos": [
+    {
+      "nombre": "Huevo San Juan",
+      "departamento": "Abarrotes"
+    },
+    {
+      "nombre": "Leche Lala",
+      "departamento": "Lácteos"
+    }
+  ]
+}
