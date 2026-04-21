@@ -816,3 +816,5 @@ def main(page: ft.Page):
 
 if __name__ == "__main__":
     ft.run(main)
+
+ft.app(target=main, port=8000, view=ft.WEB_BROWSER)
